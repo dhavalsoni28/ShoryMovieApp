@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Avengers",
+        "searchText": "Avengers",
+        "imageName": "avengers",
+    },
+    {
+        "name": "Spider Man",
+        "searchText": "spider-man",
+        "imageName": "spider-man",
+    },
+    {
+        "name": "Iron Man",
+        "searchText": "iron man",
+        "imageName": "iron-man",
+    },
+    {
+        "name": "Black Panther",
+        "searchText": "black panther",
+        "imageName": "black-panther",
+    },
+    {
+        "name": "Deadpool",
+        "searchText": "deadpool",
+        "imageName": "deadpool",
+    }
+  ]
